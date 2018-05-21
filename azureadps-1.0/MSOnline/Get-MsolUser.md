@@ -426,7 +426,7 @@ These are validation errors that may result in loss of services.
 
 * FirstName. The user's first name.
 
-* ImmutableID. Only returned for federated users.
+* ImmutableID. Only returned for synchronized users.
 This is the ID that is required to be federated with Azure Active Directory.
 
 * isBlackBerryUser. Returns whether or not the user has a BlackBerry device.
